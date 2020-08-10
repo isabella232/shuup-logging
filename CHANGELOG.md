@@ -13,6 +13,10 @@ Enter here all the changes made to the development version
 Improve descriptions, help texts, error messages, etc
 
 
+## [1.0.2] - 2020-08-10
+
+- Update Shuup version requirement
+
 ## [1.0.0] - 2020-08-05
 
 Add Shuup 2.0 support. Not backwards compatible with 1.x version.
